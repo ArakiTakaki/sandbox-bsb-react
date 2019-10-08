@@ -1,5 +1,12 @@
 # my-react-app
 
+## 開始方法
+
+```sh
+$ yarn start # bsbのコンパイル
+$ yarn server # コンパイルされたjavascripの実行
+```
+
 ## Run Project
 
 ```sh
